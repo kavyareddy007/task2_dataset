@@ -57,8 +57,7 @@ The goal of this project is to demonstrate the use of Power BI and Power Query t
 ### 7. **Creating a Summary**
    - A summary slide was added to provide a business-focused overview of the key insights from the dashboard. This includes insights into sales performance, profitability by category, and the best-performing regions.
 
-### 8. **Publishing the Report**
-   - The final dashboard was published to the Power BI Service for easy access and sharing.
+
 
 ---
 
