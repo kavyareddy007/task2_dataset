@@ -67,7 +67,7 @@ This Power BI dashboard offers a comprehensive view of sales and profitability d
 ## Tools Used
 - **Power BI Desktop**
 - **Power Query for data transformation**
-- **Power BI Service for publishing and sharing**
+
 
 ---
 
